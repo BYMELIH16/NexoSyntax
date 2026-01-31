@@ -1,4 +1,4 @@
-# ⚡ Welcome to my Lab, I'm [ADINIZ]
+# ⚡ Welcome to my Lab, I'm Nexo Syntax
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4655&center=true&vCenter=true&width=435&lines=Game+Security+Researcher;C%2B%2B+%26+Python+Developer;Valorant+Project+Manager;Reverse+Engineering+Enthusiast" alt="Typing SVG" />
@@ -35,7 +35,7 @@ Focused on developing high-performance game enhancement software and security by
 ---
 
 ### 📩 Connect With Me
-- **Discord:** `[DISCORD_ADRESIN]`
+- **Discord:** `shadow.melih`
 - **Status:** Open for technical collaborations or project management.
 
 ---
